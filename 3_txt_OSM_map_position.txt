@@ -1,0 +1,2 @@
+For this project, I have selected Fullerton, CA, USA (https://www.openstreetmap.org/relation/2312655) as my location and will use SQL as the database.   I chose Fullerton, because this is where I grew up.  While I don¡¯t live there any longer, my parents still live there.  
+It is possible that the above link will not be linked because the submission requested a text file.  It was unclear if that meant a .txt file or any text file, but I saved this as .txt file.  Please copy and paste the above web address.
